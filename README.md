@@ -66,36 +66,38 @@ Similar actions were carried out on other columns that contained irrelevant info
 
 ### RESULTS
 ![Job Title](https://github.com/kunleadegeye/dataprofessionals/blob/main/images/01_Job_title.png)<br/>
-**Fig 1: JOB TITLE COUNT (Designed with Tableau)<br/>
+**Fig 1: JOB TITLE COUNT (Designed with Tableau)** <br/>
 
 There were 630 respondents who participated in the survey. 381 were Data Analyst, 38 were Data Engineers, 25 where Data Scientists, 5 were Data base developers, 3 were Data Architects, 88 were unclassified, and 90 were either students or people searching for jobs in the field.
 
 ![Average Salary](https://github.com/kunleadegeye/dataprofessionals/blob/main/images/02_average_salary.png)<br/>
 **FIG 2: AVERAGE SALARY (Designed with PowerBI)**<br/>
-According to the report, the average salary in the industry was $53,900. The minimum salary was $40,000, while the maximum value was $225,000. 
-
+According to the report, the average salary in the industry was $53,900. The minimum salary was $40,000, while the maximum value was $225,000. <br/>
+<br/>
  ![Average Salary by Job Title](https://github.com/kunleadegeye/dataprofessionals/blob/main/images/03_salary_by_title.png)<br/>
 **FIG 3: AVERAGE SALARY BY JOB TITLE (Designed with PowerBI)**<br/>
-The highest paid data professionals were Data Scientist with an average of $93,800; while the lowest paid were Database Developers, coming in at $33,200. Data Engineers received an average of $65,100; Data Architects came in at an average of $63,700; Data Analysts average salary stood at $55,300; while other fields in Data had an average of $60,500. With respect to the sectors, Finance had the highest average at $57,700 while Telecommunications had the lowest average at $40,300.
-
+The highest paid data professionals were Data Scientist with an average of $93,800; while the lowest paid were Database Developers, coming in at $33,200. Data Engineers received an average of $65,100; Data Architects came in at an average of $63,700; Data Analysts average salary stood at $55,300; while other fields in Data had an average of $60,500. With respect to the sectors, Finance had the highest average at $57,700 while Telecommunications had the lowest average at $40,300.<br/>
+<br/>
 ![Favorite Programming Language](https://github.com/kunleadegeye/dataprofessionals/blob/main/images/04_favorite_language.png)<br/>
 **FIG 4: FAVORITE PROGRAMMING LANGUAGE (Designed with Tableau)**<br/>
-Python was selected as the most utilized programming language with a total of 420 respondents claiming that they preferred Python. R was the second favorite with 101 respondents; 6 people chose Javascript; 7 chose C/C++; 1 person chose Java and 95 people chose other languages.
- 
+Python was selected as the most utilized programming language with a total of 420 respondents claiming that they preferred Python. R was the second favorite with 101 respondents; 6 people chose Javascript; 7 chose C/C++; 1 person chose Java and 95 people chose other languages.<br/>
+<br/> 
 ![Difficulty](https://github.com/kunleadegeye/dataprofessionals/blob/main/images/05_dfficulty.png)<br/>
 **FIG 5: DIFFICULTY IN BREAKING INTO PROFESSION (Designed with Tableau)**<br/>
-The respondents were asked about the level of difficult they are experienced breaking into a career in data. 253 of them claimed it was neither easy nor difficult; 125 claimed it was easy; 24 claimed it was very easy; 142 responded that it was difficult and 34 maintained that it was very difficult.
-
+The respondents were asked about the level of difficult they are experienced breaking into a career in data. 253 of them claimed it was neither easy nor difficult; 125 claimed it was easy; 24 claimed it was very easy; 142 responded that it was difficult and 34 maintained that it was very difficult.<br/>
+<br/>
 ![Satisfaction](https://github.com/kunleadegeye/dataprofessionals/blob/main/images/06_satisfaction.png)<br/>
-**FIG 6: SATISFACTION WITH SALARY		(Designed with PowerBI)**
-
+**FIG 6: SATISFACTION WITH SALARY		(Designed with PowerBI)**<br/>
+<br/>
 ![Work life balance](https://github.com/kunleadegeye/dataprofessionals/blob/main/images/07_work_life_balance.png)<br/>
 **FIG 7: SATISFACTION WITH WORKLIFE BALANCE (Designed with PowerBI)**<br/>
 Various questions were asked to understand the level of job satisfaction with respect to certain areas. Satisfaction was graded on a scale of 1 to 10. With respect to salary, the analysis discovered that the average satisfaction was at an average of 4.27; and with respect to work life balance, the satisfaction score was 5.7<br/>
-  
+<br/>
+
 Click [HERE](https://public.tableau.com/app/profile/olakunle.adegeye/viz/V2professionalsSurvey/Dashboard1) to view the interactive Tableau dashboard<br/>
 **FIG 8: TABLEAU DASHBOARD**<br/>
- 
+<br/>
+
 Click [HERE](https://app.powerbi.com/view?r=eyJrIjoiMGRiMDg0NjctNDcyZS00ODUwLWIxZWMtYWJhMTU0M2I5YmE0IiwidCI6IjJlNTMzNGFiLWU2MWMtNGIyZC1iMWM4LWU3NDlmOTk1YWU1NSJ9&pageName=ReportSection) for to view the interactive Microsoft PowerBI Dashboard<br/>
 **FIG 9: POWERBI DASHBOARD**<br/>
 
