@@ -1,9 +1,10 @@
 # Data Professionals Survey
-![Tableau Dashboard](https://github.com/kunleadegeye/dataprofessionals/blob/main/07_Tableau_Dashboard.png)
-This project is a survey carried out on data professional to understand the industry with a view to providing <br/> information for aspiring data professionals and having a general understanding of the industry.
+This project is a survey carried out on data professional to understand the industry with a view to providing information for aspiring data professionals and having a general understanding of the industry.
 <br/>
 You can get a quick view of the summary from the interactive Tableau visualization [HERE](https://public.tableau.com/app/profile/olakunle.adegeye/viz/V2professionalsSurvey/Dashboard1)
-or the PowerBi Visualization [HERE](https://app.powerbi.com/view?r=eyJrIjoiMGRiMDg0NjctNDcyZS00ODUwLWIxZWMtYWJhMTU0M2I5YmE0IiwidCI6IjJlNTMzNGFiLWU2MWMtNGIyZC1iMWM4LWU3NDlmOTk1YWU1NSJ9&pageName=ReportSection)
+or the PowerBi Visualization [HERE](https://app.powerbi.com/view?r=eyJrIjoiMGRiMDg0NjctNDcyZS00ODUwLWIxZWMtYWJhMTU0M2I5YmE0IiwidCI6IjJlNTMzNGFiLWU2MWMtNGIyZC1iMWM4LWU3NDlmOTk1YWU1NSJ9&pageName=ReportSection)<br/><br/>
+![Tableau Dashboard](https://github.com/kunleadegeye/dataprofessionals/blob/main/07_Tableau_Dashboard.png)
+
 
 ### TECHNOLOGY STACK USED:
 •	Microsoft SQL Server (for data cleaning, transformation and summary)<br/>
