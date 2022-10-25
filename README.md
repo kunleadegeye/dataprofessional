@@ -93,12 +93,10 @@ The respondents were asked about the level of difficult they are experienced bre
 **FIG 7: SATISFACTION WITH WORKLIFE BALANCE (Designed with PowerBI)**<br/>
 Various questions were asked to understand the level of job satisfaction with respect to certain areas. Satisfaction was graded on a scale of 1 to 10. With respect to salary, the analysis discovered that the average satisfaction was at an average of 4.27; and with respect to work life balance, the satisfaction score was 5.7
   
-#### TABLEAU DASHBOARD
 Click [HERE](https://public.tableau.com/app/profile/olakunle.adegeye/viz/V2professionalsSurvey/Dashboard1) to view the interactive Tableau dashboard<br/>
 **FIG 8: TABLEAU DASHBOARD**<br/>
  
-#### POWERBI DASHBOARD
-Click [HERE](https://app.powerbi.com/view?r=eyJrIjoiMGRiMDg0NjctNDcyZS00ODUwLWIxZWMtYWJhMTU0M2I5YmE0IiwidCI6IjJlNTMzNGFiLWU2MWMtNGIyZC1iMWM4LWU3NDlmOTk1YWU1NSJ9&pageName=ReportSection) for to view the interactive Microsoft PowerBI Dashboard
+Click [HERE](https://app.powerbi.com/view?r=eyJrIjoiMGRiMDg0NjctNDcyZS00ODUwLWIxZWMtYWJhMTU0M2I5YmE0IiwidCI6IjJlNTMzNGFiLWU2MWMtNGIyZC1iMWM4LWU3NDlmOTk1YWU1NSJ9&pageName=ReportSection) for to view the interactive Microsoft PowerBI Dashboard<br/>
 **FIG 9: POWERBI DASHBOARD**
 
 ### INTERPRETATION AND RECOMMENDATIONS
