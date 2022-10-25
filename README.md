@@ -1,3 +1,5 @@
+Please click 'view code' above to view project documents
+
 # Data Professionals Survey
 This project is a survey carried out on data professional to understand the industry with a view to providing information for aspiring data professionals and having a general understanding of the industry.
 <br/>
