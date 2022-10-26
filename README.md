@@ -55,8 +55,8 @@ Data was collected using an online survey form. After the forms were the filled,
 
 ### DATA CLEANING AND TRANSFORMATION
  The data cleaning and transformation was done using:<br/>
-•	Microsoft SQL Server. <br/>
-•	Power Query and DAX functions in Microsoft PowerBI. <br/>
+•	Microsoft SQL Server.(Download SQL Queries [HERE](https://github.com/kunleadegeye/dataprofessionals/blob/main/03_SQLQuerys_for_Data_Professionals.sql) and cleaned data [HERE](https://github.com/kunleadegeye/dataprofessionals/blob/main/05_Microsoft%20SQL_Cleaning_of_Data_Professional_v2.xlsx)) <br/>
+•	Power Query and DAX functions in Microsoft PowerBI.(Download Power Query cleaned data [HERE](https://github.com/kunleadegeye/dataprofessionals/blob/main/06_Power_Query_Cleaning_Data_Professionals.xlsx)) <br/>
 •	Microsoft Excel. <br/>
 
 SQL was used to perform some aggregate functions and summarize the data.  It was also used to clean and transform the data that was used to create a dashboard with Tableau.<br/>
