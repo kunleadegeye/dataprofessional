@@ -1,6 +1,6 @@
 This project was carried out by Olakunle Adegeye using a dataset obtained
 from a survey of professionals in the data field.
-The objective of the project was to understand gather enough insight to
+The objective of the project was to gather enough insight to
 serve as a guideline for both for aspiring and incumbent data professionals for
 understanding the industry and what it takes to break into a chosen field.
 
